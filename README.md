@@ -1,572 +1,933 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ⚠️ WARNING: PREMIUM README DETECTED ⚠️                                -->
-<!-- This README.md is built like a modern SaaS landing page.             -->
-<!-- It uses heavy HTML/CSS/SVG animations that render beautifully on     -->
-<!-- desktop and mobile. It is designed to be dark, luxurious, and fully  -->
-<!-- responsive.                                                          -->
-<!--                                                                      -->
-<!-- To use this: Simply paste this entire block into your README.md.     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  
-  <!-- ═══════════════════════ HEADER SVG BANNER ═══════════════════════ -->
-  <a href="https://github.com/aman-srivastava">
-    <img src="docs/assets/header-banner.svg" alt="Aman Srivastava - Header" width="100%" style="border-radius: 24px; box-shadow: 0 20px 50px rgba(0,0,0,0.5); margin-bottom: 40px;" />
-  </a>
 
-  <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-  <div style="margin-bottom: 60px; height: 40px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+web+applications.;Securing+the+digital+frontier.;Architecting+AI-driven+systems.; Turning+coffee+into+code." alt="Typing SVG" />
-    </a>
-  </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=300&section=header&text=AMAN%20SRIVASTAVA&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cyber%20Security%20Student%20%E2%80%A2%20AI%20Engineer&descAlignY=55&descSize=19&animation=fadeIn" width="100%"/>
 
-  <!-- ═══════════════════════ ABOUT SECTION ═══════════════════════ -->
-  <div align="center" style="max-width: 1000px; margin: 0 auto 80px auto; padding: 20px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #00F5D4, #00BBF9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 40px; text-transform: uppercase; letter-spacing: 2px;">
-      The Architect
-    </h2>
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: separate; border-spacing: 20px 0; background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 245, 212, 0.1); border-radius: 24px; backdrop-filter: blur(10px);">
-      <tr>
-        <!-- Profile Image Area -->
-        <td width="30%" valign="top" align="center" style="padding: 30px;">
-          <div style="position: relative; width: 180px; height: 180px; margin: 0 auto;">
-            <div style="position: absolute; inset: -4px; background: conic-gradient(from 0deg, #00F5D4, #00BBF9, #9B5DE5, #00F5D4); border-radius: 50%; animation: spin 4s linear infinite;"></div>
-            <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Aman Srivastava" width="180" height="180" style="border-radius: 50%; border: 4px solid #0F0E17; position: relative; z-index: 2; object-fit: cover;" />
-            <div style="position: absolute; bottom: 10px; right: 10px; width: 20px; height: 20px; background: #00F5D4; border: 3px solid #0F0E17; border-radius: 50%; z-index: 3; box-shadow: 0 0 10px #00F5D4;"></div>
-          </div>
-          <br>
-          <a href="https://github.com/aman-srivastava">
-            <img src="https://img.shields.io/badge/Follow-aman--srivastava-00F5D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          </a>
-        </td>
-        
-        <!-- Bio Area -->
-        <td valign="middle" style="padding: 40px; text-align: left; font-family: 'Inter', sans-serif; color: #A0A0B0; font-size: 16px; line-height: 1.6;">
-          <p style="margin-top: 0; color: #FFFFFF; font-size: 22px; font-weight: 600;">Hello, I'm Aman.</p>
-          <p style="margin-bottom: 20px;">
-            I am a Full Stack Developer, Cyber Security Student, and AI Engineer dedicated to building robust, scalable, and secure digital ecosystems. My expertise spans from designing pixel-perfect frontend interfaces to architecting distributed backend systems and integrating cutting-edge machine learning models.
-          </p>
-          <table border="0" cellpadding="5" cellspacing="0" style="color: #A0A0B0; font-size: 14px;">
-            <tr>
-              <td align="center" width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20" alt="React" /></td>
-              <td style="color: #00F5D4; font-weight: 600;">Currently:</td>
-              <td>Architecting AI-driven SaaS platforms</td>
-            </tr>
-            <tr>
-              <td align="center" width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python" /></td>
-              <td style="color: #00BBF9; font-weight: 600;">Learning:</td>
-              <td>Advanced Threat Modeling & LLM Fine-tuning</td>
-            </tr>
-            <tr>
-              <td align="center" width="30"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20" height="20" alt="Docker" /></td>
-              <td style="color: #9B5DE5; font-weight: 600;">Focus:</td>
-              <td>Zero-Trust Architecture & Cloud Native DevOps</td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </table>
-  </div>
+<br/>
 
-  <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-  <div align="center" style="margin-bottom: 80px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #00BBF9, #9B5DE5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 40px; text-transform: uppercase; letter-spacing: 2px;">
-      Arsenal
-    </h2>
-    
-    <!-- Languages -->
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 245, 212, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 20px; max-width: 800px; backdrop-filter: blur(10px);">
-      <h3 style="color: #00F5D4; font-family: 'Fira Code', monospace; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; text-align: left;">// Languages</h3>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go" alt="Go" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" style="margin: 5px;" /></a>
-      </p>
-    </div>
+<a href="https://github.com/amansrivastava">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7C6FF0&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=Building+scalable+full-stack+systems;Breaking+things+to+understand+them+better+%E2%80%94+Cyber+Security;Training+models+that+actually+ship+%E2%80%94+AI+Engineering;git+commit+-m+%22it+works+on+my+machine%22;console.log(%22Turning+coffee+into+code%22)%3B" alt="Typing SVG" />
+</a>
 
-    <!-- Frontend -->
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 187, 249, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 20px; max-width: 800px; backdrop-filter: blur(10px);">
-      <h3 style="color: #00BBF9; font-family: 'Fira Code', monospace; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; text-align: left;">// Frontend</h3>
-      <p align="center">
-        <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" style="margin: 5px;" /></a>
-      </p>
-    </div>
+<br/><br/>
 
-    <!-- Backend -->
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(155, 93, 229, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 20px; max-width: 800px; backdrop-filter: blur(10px);">
-      <h3 style="color: #9B5DE5; font-family: 'Fira Code', monospace; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; text-align: left;">// Backend</h3>
-      <p align="center">
-        <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://graphql.org" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="50" height="50" style="margin: 5px;" /></a>
-      </p>
-    </div>
-
-    <!-- Database -->
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 245, 212, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 20px; max-width: 800px; backdrop-filter: blur(10px);">
-      <h3 style="color: #00F5D4; font-family: 'Fira Code', monospace; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; text-align: left;">// Database</h3>
-      <p align="center">
-        <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.prisma.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" style="margin: 5px;" /></a>
-      </p>
-    </div>
-
-    <!-- Cloud -->
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 187, 249, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 20px; max-width: 800px; backdrop-filter: blur(10px);">
-      <h3 style="color: #00BBF9; font-family: 'Fira Code', monospace; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; text-align: left;">// Cloud</h3>
-      <p align="center">
-        <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.cloudflare.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" width="50" height="50" style="margin: 5px;" /></a>
-      </p>
-    </div>
-
-    <!-- DevOps -->
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(155, 93, 229, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 20px; max-width: 800px; backdrop-filter: blur(10px);">
-      <h3 style="color: #9B5DE5; font-family: 'Fira Code', monospace; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; text-align: left;">// DevOps</h3>
-      <p align="center">
-        <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50" style="margin: 5px;" /></a>
-      </p>
-    </div>
-
-    <!-- AI -->
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 245, 212, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 20px; max-width: 800px; backdrop-filter: blur(10px);">
-      <h3 style="color: #00F5D4; font-family: 'Fira Code', monospace; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; text-align: left;">// Artificial Intelligence</h3>
-      <p align="center">
-        <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50" height="50" style="margin: 5px;" /></a>
-      </p>
-    </div>
-
-    <!-- Tools -->
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 187, 249, 0.1); border-radius: 16px; padding: 20px; margin-bottom: 20px; max-width: 800px; backdrop-filter: blur(10px);">
-      <h3 style="color: #00BBF9; font-family: 'Fira Code', monospace; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 10px; text-align: left;">// Tools</h3>
-      <p align="center">
-        <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://postman.com" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://www.vim.org/" target="_blank"><img src="https://skillicons.dev/icons?i=vim" alt="Vim" width="50" height="50" style="margin: 5px;" /></a>
-        <a href="https://burpsuite.com" target="_blank"><img src="https://skillicons.dev/icons?i=burpsuite" alt="Burp Suite" width="50" height="50" style="margin: 5px;" /></a>
-      </p>
-    </div>
-  </div>
-
-  <!-- ═══════════════════════ FEATURED PROJECTS ═══════════════════════ -->
-  <div align="center" style="margin-bottom: 80px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #9B5DE5, #00F5D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 40px; text-transform: uppercase; letter-spacing: 2px;">
-      Featured Builds
-    </h2>
-
-    <table border="0" cellpadding="20" cellspacing="0" width="100%" style="max-width: 1000px; border-collapse: separate; border-spacing: 20px;">
-      <tr>
-        <!-- Project 1: WoodZeno -->
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.8); border: 1px solid rgba(155, 93, 229, 0.3); border-radius: 20px; padding: 0; overflow: hidden; backdrop-filter: blur(10px);">
-          <div style="background: url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop') center/cover; height: 160px; position: relative; border-bottom: 1px solid rgba(155, 93, 229, 0.3);">
-            <div style="position: absolute; inset: 0; background: linear-gradient(to bottom, transparent, #0F0E17);"></div>
-            <div style="position: absolute; top: 15px; right: 15px; background: rgba(0, 245, 212, 0.2); border: 1px solid #00F5D4; color: #00F5D4; padding: 4px 10px; border-radius: 12px; font-size: 12px; font-family: 'Fira Code', monospace;">Production</div>
-          </div>
-          <div style="padding: 20px; text-align: left;">
-            <h3 style="margin-top: 0; color: #FFFFFF; font-family: 'Inter', sans-serif;">WoodZeno</h3>
-            <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 60px;">A premium inventory and order management system designed specifically for timber merchants and woodcraft artisans. Features real-time stock tracking and CNC machine integration.</p>
-            <div style="margin-bottom: 15px;">
-              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-              <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-              <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-            </div>
-            <a href="https://github.com/aman-srivastava/woodzeno" style="display: inline-block; background: linear-gradient(90deg, #9B5DE5, #00BBF9); color: #FFFFFF; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; margin-right: 5px; font-weight: 700;">View Code</a>
-            <a href="#" style="display: inline-block; background: transparent; border: 1px solid #9B5DE5; color: #9B5DE5; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">Live Demo</a>
-          </div>
-        </td>
-
-        <!-- Project 2: Pharmacy ERP -->
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.8); border: 1px solid rgba(0, 187, 249, 0.3); border-radius: 20px; padding: 0; overflow: hidden; backdrop-filter: blur(10px);">
-          <div style="background: url('https://images.unsplash.com/photo-1631549916768-4119b2e5f926?q=80&w=2070&auto=format&fit=crop') center/cover; height: 160px; position: relative; border-bottom: 1px solid rgba(0, 187, 249, 0.3);">
-            <div style="position: absolute; inset: 0; background: linear-gradient(to bottom, transparent, #0F0E17);"></div>
-            <div style="position: absolute; top: 15px; right: 15px; background: rgba(0, 187, 249, 0.2); border: 1px solid #00BBF9; color: #00BBF9; padding: 4px 10px; border-radius: 12px; font-size: 12px; font-family: 'Fira Code', monospace;">Active</div>
-          </div>
-          <div style="padding: 20px; text-align: left;">
-            <h3 style="margin-top: 0; color: #FFFFFF; font-family: 'Inter', sans-serif;">Pharmacy ERP</h3>
-            <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 60px;">Enterprise Resource Planning system for mid-sized pharmacies. Handles prescription tracking, batch inventory, expiry alerts, and GST compliance reporting.</p>
-            <div style="margin-bottom: 15px;">
-              <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-              <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-            </div>
-            <a href="https://github.com/aman-srivastava/pharmacy-erp" style="display: inline-block; background: linear-gradient(90deg, #00BBF9, #00F5D4); color: #000000; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; margin-right: 5px; font-weight: 700;">View Code</a>
-            <a href="#" style="display: inline-block; background: transparent; border: 1px solid #00BBF9; color: #00BBF9; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">Live Demo</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <!-- Project 3: Luxury Jewellery -->
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.8); border: 1px solid rgba(0, 245, 212, 0.3); border-radius: 20px; padding: 0; overflow: hidden; backdrop-filter: blur(10px);">
-          <div style="background: url('https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=2070&auto=format&fit=crop') center/cover; height: 160px; position: relative; border-bottom: 1px solid rgba(0, 245, 212, 0.3);">
-            <div style="position: absolute; inset: 0; background: linear-gradient(to bottom, transparent, #0F0E17);"></div>
-            <div style="position: absolute; top: 15px; right: 15px; background: rgba(155, 93, 229, 0.2); border: 1px solid #9B5DE5; color: #9B5DE5; padding: 4px 10px; border-radius: 12px; font-size: 12px; font-family: 'Fira Code', monospace;">Live</div>
-          </div>
-          <div style="padding: 20px; text-align: left;">
-            <h3 style="margin-top: 0; color: #FFFFFF; font-family: 'Inter', sans-serif;">Luxury Jewellery</h3>
-            <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 60px;">A high-end e-commerce platform for luxury jewellery. Features 3D product viewing, custom engraving modules, and secure payment gateways with Stripe integration.</p>
-            <div style="margin-bottom: 15px;">
-              <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-            </div>
-            <a href="https://github.com/aman-srivastava/luxury-jewellery" style="display: inline-block; background: linear-gradient(90deg, #00F5D4, #9B5DE5); color: #FFFFFF; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; margin-right: 5px; font-weight: 700;">View Code</a>
-            <a href="#" style="display: inline-block; background: transparent; border: 1px solid #00F5D4; color: #00F5D4; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">Live Demo</a>
-          </div>
-        </td>
-
-        <!-- Project 4: Portfolio -->
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.8); border: 1px solid rgba(155, 93, 229, 0.3); border-radius: 20px; padding: 0; overflow: hidden; backdrop-filter: blur(10px);">
-          <div style="background: url('https://images.unsplash.com/photo-1517180102446-f3ece451e9d8?q=80&w=2070&auto=format&fit=crop') center/cover; height: 160px; position: relative; border-bottom: 1px solid rgba(155, 93, 229, 0.3);">
-            <div style="position: absolute; inset: 0; background: linear-gradient(to bottom, transparent, #0F0E17);"></div>
-            <div style="position: absolute; top: 15px; right: 15px; background: rgba(0, 245, 212, 0.2); border: 1px solid #00F5D4; color: #00F5D4; padding: 4px 10px; border-radius: 12px; font-size: 12px; font-family: 'Fira Code', monospace;">Production</div>
-          </div>
-          <div style="padding: 20px; text-align: left;">
-            <h3 style="margin-top: 0; color: #FFFFFF; font-family: 'Inter', sans-serif;">Portfolio v3</h3>
-            <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 60px;">A 3D interactive portfolio built with Three.js and React Three Fiber. Features physics-based interactions, GLSL shaders, and a custom CMS for project management.</p>
-            <div style="margin-bottom: 15px;">
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-              <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-              <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-            </div>
-            <a href="https://github.com/aman-srivastava/portfolio" style="display: inline-block; background: linear-gradient(90deg, #9B5DE5, #00BBF9); color: #FFFFFF; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; margin-right: 5px; font-weight: 700;">View Code</a>
-            <a href="#" style="display: inline-block; background: transparent; border: 1px solid #9B5DE5; color: #9B5DE5; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">Live Demo</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <!-- Project 5: AI Chatbot -->
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.8); border: 1px solid rgba(0, 187, 249, 0.3); border-radius: 20px; padding: 0; overflow: hidden; backdrop-filter: blur(10px);">
-          <div style="background: url('https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=2065&auto=format&fit=crop') center/cover; height: 160px; position: relative; border-bottom: 1px solid rgba(0, 187, 249, 0.3);">
-            <div style="position: absolute; inset: 0; background: linear-gradient(to bottom, transparent, #0F0E17);"></div>
-            <div style="position: absolute; top: 15px; right: 15px; background: rgba(0, 187, 249, 0.2); border: 1px solid #00BBF9; color: #00BBF9; padding: 4px 10px; border-radius: 12px; font-size: 12px; font-family: 'Fira Code', monospace;">Beta</div>
-          </div>
-          <div style="padding: 20px; text-align: left;">
-            <h3 style="margin-top: 0; color: #FFFFFF; font-family: 'Inter', sans-serif;">AI Support Chatbot</h3>
-            <p style="color: #A0A0B0; font-size: 14px; line-height: 1.5; min-height: 60px;">An enterprise-grade customer support bot utilizing LangChain and OpenAI APIs. Capable of querying vector databases for RAG (Retrieval-Augmented Generation) responses.</p>
-            <div style="margin-bottom: 15px;">
-              <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-              <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-              <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
-            </div>
-            <a href="https://github.com/aman-srivastava/ai-chatbot" style="display: inline-block; background: linear-gradient(90deg, #00BBF9, #00F5D4); color: #000000; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; margin-right: 5px; font-weight: 700;">View Code</a>
-            <a href="#" style="display: inline-block; background: transparent; border: 1px solid #00BBF9; color: #00BBF9; padding: 8px 16px; border-radius: 8px; text-decoration: none; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">Live Demo</a>
-          </div>
-        </td>
-        
-        <!-- Empty cell for alignment if needed, or fill with another project -->
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.8); border: 1px dashed rgba(255, 255, 255, 0.1); border-radius: 20px; padding: 20px; text-align: center;">
-          <h3 style="margin-top: 100px; color: #A0A0B0; font-family: 'Fira Code', monospace; font-size: 16px;">// More projects loading...</h3>
-          <div style="height: 100px; width: 100px; margin: 20px auto; border: 4px solid rgba(0, 245, 212, 0.2); border-top: 4px solid #00F5D4; border-radius: 50%; animation: spin 1s linear infinite;"></div>
-          <p style="color: #505060; font-size: 12px;">Stay tuned for upcoming open-source contributions.</p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- ═══════════════════════ TIMELINE ═══════════════════════ -->
-  <div align="center" style="margin-bottom: 80px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #00F5D4, #9B5DE5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 40px; text-transform: uppercase; letter-spacing: 2px;">
-      The Journey
-    </h2>
-    
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 800px; position: relative;">
-      <!-- Vertical Line -->
-      <tr>
-        <td width="50px" valign="top" style="position: relative;">
-          <div style="position: absolute; left: 24px; top: 0; bottom: 0; width: 2px; background: linear-gradient(to bottom, #00F5D4, #00BBF9, #9B5DE5, transparent);"></div>
-        </td>
-        <td style="padding-bottom: 40px;"></td>
-      </tr>
-
-      <!-- Event 1 -->
-      <tr>
-        <td width="50px" valign="top" align="center" style="position: relative;">
-          <div style="width: 20px; height: 20px; background: #00F5D4; border: 4px solid #0F0E17; border-radius: 50%; margin-top: 5px; box-shadow: 0 0 15px #00F5D4; z-index: 2; position: relative;"></div>
-        </td>
-        <td valign="top" style="padding-left: 20px; padding-bottom: 40px;">
-          <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 245, 212, 0.2); border-radius: 16px; padding: 20px; backdrop-filter: blur(10px);">
-            <span style="color: #00F5D4; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">2021 - Genesis</span>
-            <h4 style="color: #FFFFFF; margin: 5px 0 10px 0; font-size: 18px;">Started Full Stack Development</h4>
-            <p style="color: #A0A0B0; font-size: 14px; margin: 0;">Dived into the MERN stack. Built my first SaaS application for local businesses and fell in love with API architecture.</p>
-          </div>
-        </td>
-      </tr>
-
-      <!-- Event 2 -->
-      <tr>
-        <td width="50px" valign="top" align="center" style="position: relative;">
-          <div style="width: 20px; height: 20px; background: #00BBF9; border: 4px solid #0F0E17; border-radius: 50%; margin-top: 5px; box-shadow: 0 0 15px #00BBF9; z-index: 2; position: relative;"></div>
-        </td>
-        <td valign="top" style="padding-left: 20px; padding-bottom: 40px;">
-          <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 187, 249, 0.2); border-radius: 16px; padding: 20px; backdrop-filter: blur(10px);">
-            <span style="color: #00BBF9; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">2022 - The Shift</span>
-            <h4 style="color: #FFFFFF; margin: 5px 0 10px 0; font-size: 18px;">Cyber Security & Cloud Native</h4>
-            <p style="color: #A0A0B0; font-size: 14px; margin: 0;">Transitioned to building microservices with Go and Docker. Began formal studies in Cyber Security, focusing on OWASP Top 10 and Zero-Trust architectures.</p>
-          </div>
-        </td>
-      </tr>
-
-      <!-- Event 3 -->
-      <tr>
-        <td width="50px" valign="top" align="center" style="position: relative;">
-          <div style="width: 20px; height: 20px; background: #9B5DE5; border: 4px solid #0F0E17; border-radius: 50%; margin-top: 5px; box-shadow: 0 0 15px #9B5DE5; z-index: 2; position: relative;"></div>
-        </td>
-        <td valign="top" style="padding-left: 20px; padding-bottom: 40px;">
-          <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(155, 93, 229, 0.2); border-radius: 16px; padding: 20px; backdrop-filter: blur(10px);">
-            <span style="color: #9B5DE5; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">2023 - Intelligence</span>
-            <h4 style="color: #FFFFFF; margin: 5px 0 10px 0; font-size: 18px;">AI Engineering & LLMs</h4>
-            <p style="color: #A0A0B0; font-size: 14px; margin: 0;">Integrated machine learning pipelines into production apps. Mastered LangChain, vector databases, and fine-tuning open-source models for specific business use cases.</p>
-          </div>
-        </td>
-      </tr>
-
-      <!-- Event 4 -->
-      <tr>
-        <td width="50px" valign="top" align="center" style="position: relative;">
-          <div style="width: 20px; height: 20px; background: #FFFFFF; border: 4px solid #0F0E17; border-radius: 50%; margin-top: 5px; box-shadow: 0 0 20px #FFFFFF; z-index: 2; position: relative; animation: pulse 2s infinite;"></div>
-        </td>
-        <td valign="top" style="padding-left: 20px;">
-          <div style="background: linear-gradient(135deg, rgba(0, 245, 212, 0.1), rgba(155, 93, 229, 0.1)); border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 16px; padding: 20px; backdrop-filter: blur(10px);">
-            <span style="color: #FFFFFF; font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 700;">2024 - Present</span>
-            <h4 style="color: #FFFFFF; margin: 5px 0 10px 0; font-size: 18px;">Architecting the Future</h4>
-            <p style="color: #A0A0B0; font-size: 14px; margin: 0;">Combining Full Stack, Security, and AI to build autonomous, secure, and highly scalable enterprise systems. Open for collaborations.</p>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- ═══════════════════════ STATS SECTION ═══════════════════════ -->
-  <div align="center" style="margin-bottom: 80px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #9B5DE5, #00BBF9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 40px; text-transform: uppercase; letter-spacing: 2px;">
-      Data & Metrics
-    </h2>
-    
-    <table border="0" cellpadding="20" cellspacing="0" width="100%" style="max-width: 1000px; border-collapse: separate; border-spacing: 20px;">
-      <tr>
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 245, 212, 0.1); border-radius: 16px; backdrop-filter: blur(10px); padding: 15px;">
-          <img src="https://github-readme-stats.vercel.app/api?username=aman-srivastava&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00F5D4&icon_color=00BBF9&text_color=FFFFFF" alt="GitHub Stats" width="100%" />
-        </td>
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(155, 93, 229, 0.1); border-radius: 16px; backdrop-filter: blur(10px); padding: 15px;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-srivastava&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=9B5DE5&text_color=FFFFFF" alt="Top Languages" width="100%" />
-        </td>
-      </tr>
-      <tr>
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 187, 249, 0.1); border-radius: 16px; backdrop-filter: blur(10px); padding: 15px;">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-srivastava&theme=radical&hide_border=true&background=00000000&ring=00BBF9&fire=9B5DE5&currStreakLabel=00F5D4" alt="GitHub Streak" width="100%" />
-        </td>
-        <td width="50%" valign="top" style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 245, 212, 0.1); border-radius: 16px; backdrop-filter: blur(10px); padding: 15px;">
-          <img src="https://github-profile-trophy.vercel.app/?username=aman-srivastava&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
-  <div align="center" style="margin-bottom: 80px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #00F5D4, #9B5DE5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 40px; text-transform: uppercase; letter-spacing: 2px;">
-      The Contribution Graph
-    </h2>
-    <div style="background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(0, 187, 249, 0.1); border-radius: 24px; padding: 30px; max-width: 1000px; backdrop-filter: blur(10px); overflow: hidden;">
-      <img src="https://raw.githubusercontent.com/aman-srivastava/aman-srivastava/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" style="display: block;" />
-      <p style="color: #505060; font-family: 'Fira Code', monospace; font-size: 12px; margin-top: 20px; margin-bottom: 0;">// Automated via GitHub Actions. The snake consumes my contributions.</p>
-    </div>
-  </div>
-
-  <!-- ═══════════════════════ CURRENT FOCUS ═══════════════════════ -->
-  <div align="center" style="margin-bottom: 80px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #00BBF9, #00F5D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 40px; text-transform: uppercase; letter-spacing: 2px;">
-      Active Objectives
-    </h2>
-    
-    <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px; border-collapse: separate; border-spacing: 0; background: rgba(15, 14, 23, 0.6); border: 1px solid rgba(155, 93, 229, 0.2); border-radius: 16px; backdrop-filter: blur(10px);">
-      <!-- Item 1 -->
-      <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-        <td width="50" align="center" valign="middle" style="padding: 15px;">
-          <div style="width: 24px; height: 24px; background: #00F5D4; border-radius: 6px; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00F5D4;">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#0F0E17" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
-          </div>
-        </td>
-        <td valign="middle" style="padding: 15px 15px 15px 0; text-align: left;">
-          <span style="color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 15px;">Mastering Rust for systems programming</span>
-        </td>
-      </tr>
-      <!-- Item 2 -->
-      <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-        <td width="50" align="center" valign="middle" style="padding: 15px;">
-          <div style="width: 24px; height: 24px; background: #00F5D4; border-radius: 6px; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 10px #00F5D4;">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#0F0E17" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
-          </div>
-        </td>
-        <td valign="middle" style="padding: 15px 15px 15px 0; text-align: left;">
-          <span style="color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 15px;">Building a custom Kubernetes operator</span>
-        </td>
-      </tr>
-      <!-- Item 3 (In Progress) -->
-      <tr style="border-bottom: 1px solid rgba(255,255,255,0.05);">
-        <td width="50" align="center" valign="middle" style="padding: 15px;">
-          <div style="width: 24px; height: 24px; border: 2px solid #00BBF9; border-radius: 6px; border-top: 2px solid transparent; border-radius: 50%; animation: spin 1s linear infinite;"></div>
-        </td>
-        <td valign="middle" style="padding: 15px 15px 15px 0; text-align: left;">
-          <span style="color: #00BBF9; font-family: 'Inter', sans-serif; font-size: 15px;">OSCP Certification Preparation</span>
-        </td>
-      </tr>
-      <!-- Item 4 (In Progress) -->
-      <tr>
-        <td width="50" align="center" valign="middle" style="padding: 15px;">
-          <div style="width: 24px; height: 24px; border: 2px solid #9B5DE5; border-radius: 6px; border-top: 2px solid transparent; border-radius: 50%; animation: spin 1s linear infinite;"></div>
-        </td>
-        <td valign="middle" style="padding: 15px 15px 15px 0; text-align: left;">
-          <span style="color: #9B5DE5; font-family: 'Inter', sans-serif; font-size: 15px;">Fine-tuning Llama 3 for medical diagnostics</span>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- ═══════════════════════ OPEN SOURCE GOALS ═══════════════════════ -->
-  <div align="center" style="margin-bottom: 80px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #9B5DE5, #00F5D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 40px; text-transform: uppercase; letter-spacing: 2px;">
-      Open Source Vision
-    </h2>
-    <div style="max-width: 800px; background: linear-gradient(135deg, rgba(155, 93, 229, 0.05), rgba(0, 187, 249, 0.05)); border: 1px solid rgba(255,255,255,0.1); border-radius: 24px; padding: 40px; backdrop-filter: blur(10px);">
-      <p style="color: #A0A0B0; font-size: 16px; line-height: 1.6; margin-bottom: 30px;">
-        I believe the future of technology is open and collaborative. My goal for 2024 is to contribute consistently to major open-source projects, particularly in the AI safety and cloud-native spaces.
-      </p>
-      <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-        <div style="background: rgba(0,0,0,0.3); border: 1px solid #00F5D4; padding: 15px 25px; border-radius: 12px; min-width: 150px;">
-          <div style="font-family: 'Fira Code', monospace; font-size: 32px; font-weight: 700; color: #00F5D4;">50+</div>
-          <div style="color: #A0A0B0; font-size: 12px; text-transform: uppercase;">Pull Requests</div>
-        </div>
-        <div style="background: rgba(0,0,0,0.3); border: 1px solid #00BBF9; padding: 15px 25px; border-radius: 12px; min-width: 150px;">
-          <div style="font-family: 'Fira Code', monospace; font-size: 32px; font-weight: 700; color: #00BBF9;">10+</div>
-          <div style="color: #A0A0B0; font-size: 12px; text-transform: uppercase;">Repos Created</div>
-        </div>
-        <div style="background: rgba(0,0,0,0.3); border: 1px solid #9B5DE5; padding: 15px 25px; border-radius: 12px; min-width: 150px;">
-          <div style="font-family: 'Fira Code', monospace; font-size: 32px; font-weight: 700; color: #9B5DE5;">1000+</div>
-          <div style="color: #A0A0B0; font-size: 12px; text-transform: uppercase;">Stars Earned</div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
-  <div align="center" style="margin-bottom: 80px;">
-    <h2 style="font-family: 'Inter', sans-serif; font-size: 36px; font-weight: 800; background: linear-gradient(90deg, #00F5D4, #00BBF9, #9B5DE5); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 2px;">
-      Establish Connection
-    </h2>
-    <p style="color: #A0A0B0; max-width: 600px; margin: 0 auto 40px auto; font-size: 16px;">
-      Have a project in mind, a security vulnerability to discuss, or just want to network? My inbox is always open.
-    </p>
-    
-    <table border="0" cellpadding="15" cellspacing="0" align="center" style="border-collapse: separate; border-spacing: 15px;">
-      <tr>
-        <td align="center">
-          <a href="mailto:aman.srivastava@example.com" style="display: block; width: 50px; height: 50px; line-height: 50px; background: rgba(15, 14, 23, 0.8); border: 1px solid #00F5D4; border-radius: 12px; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0, 245, 212, 0.1);">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" height="24" alt="Email" style="vertical-align: middle;" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://linkedin.com/in/aman-srivastava" target="_blank" style="display: block; width: 50px; height: 50px; line-height: 50px; background: rgba(15, 14, 23, 0.8); border: 1px solid #00BBF9; border-radius: 12px; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0, 187, 249, 0.1);">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" style="vertical-align: middle;" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://twitter.com/aman_srivastava" target="_blank" style="display: block; width: 50px; height: 50px; line-height: 50px; background: rgba(15, 14, 23, 0.8); border: 1px solid #9B5DE5; border-radius: 12px; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(155, 93, 229, 0.1);">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="24" height="24" alt="Twitter" style="vertical-align: middle;" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://discord.com/users/aman-srivastava" target="_blank" style="display: block; width: 50px; height: 50px; line-height: 50px; background: rgba(15, 14, 23, 0.8); border: 1px solid #00F5D4; border-radius: 12px; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0, 245, 212, 0.1);">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="24" height="24" alt="Discord" style="vertical-align: middle;" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-  <div align="center" style="margin-top: 60px; position: relative;">
-    <img src="docs/assets/footer-banner.svg" alt="Footer Banner" width="100%" style="border-radius: 24px; margin-bottom: 20px; opacity: 0.8;" />
-    <p style="color: #505060; font-family: 'Fira Code', monospace; font-size: 12px; margin-bottom: 10px;">
-      Designed & Built by Aman Srivastava
-    </p>
-    <p style="color: #303040; font-family: 'Fira Code', monospace; font-size: 10px;">
-      © 2024 | Crafted with precision. Powered by coffee.
-    </p>
-  </div>
+<img src="https://komarev.com/ghpvc/?username=amansrivastava&label=PROFILE+VIEWS&color=7c6ff0&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/amansrivastava?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0F0C29" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-7C6FF0?style=for-the-badge&labelColor=0F0C29" alt="status"/>
+<img src="https://img.shields.io/badge/TIMEZONE-IST%20(UTC%2B5%3A30)-00D9FF?style=for-the-badge&labelColor=0F0C29" alt="timezone"/>
 
 </div>
 
-<style>
-  @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-  @keyframes pulse {
-    0% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4); }
-    70% { box-shadow: 0 0 0 10px rgba(255, 255, 255, 0); }
-    100% { box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); }
-  }
-  @keyframes float {
-    0% { transform: translateY(0px); }
-    50% { transform: translateY(-10px); }
-    100% { transform: translateY(0px); }
-  }
-</style>
+<br/>
 
-<!-- 
-  NOTE ON SVG BANNERS:
-  The header-banner.svg and footer-banner.svg are referenced locally.
-  Create a folder named 'docs/assets/' in your repository and add the SVG files.
-  Or replace the src attributes with raw GitHub links to external SVGs.
-  
-  Example SVG for header (Save as header-banner.svg):
-  <svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00F5D4;stop-opacity:1" />
-        <stop offset="50%" style="stop-color:#00BBF9;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#9B5DE5;stop-opacity:1" />
-      </linearGradient>
-      <filter id="glow">
-        <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <rect width="1200" height="250" fill="#0F0E17"/>
-    <text x="50%" y="40%" font-family="Inter, sans-serif" font-size="64" font-weight="bold" fill="url(#grad1)" text-anchor="middle" filter="url(#glow)">AMAN SRIVASTAVA</text>
-    <text x="50%" y="60%" font-family="Fira Code, monospace" font-size="24" fill="#A0A0B0" text-anchor="middle">Full Stack Developer | Cyber Security Student | AI Engineer</text>
-    <path d="M0 200 Q 300 150 600 200 T 1200 200" stroke="url(#grad1)" stroke-width="2" fill="none" opacity="0.5"/>
-  </svg>
--->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation displaying contribution graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr><td>
+
+```yaml
+whoami:
+  name:      "Aman Srivastava"
+  pronouns:  "he / him"
+  roles:
+    - "Full Stack Developer"
+    - "Cyber Security Student"
+    - "AI Engineer"
+  location:  "India (IST, UTC+5:30)"
+  currently: "Building things that scale, securing things that matter"
+  learning:  "Adversarial ML & LLM red-teaming"
+  fun_fact:  "I read RFCs for fun and CVEs for sport"
+  reach_me:  "amansrivastava.dev@gmail.com"
+```
+
+</td></tr>
+</table>
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="20%">
+
+**3+**
+<br/><sub>Years Coding</sub>
+
+</td>
+<td align="center" width="20%">
+
+**20+**
+<br/><sub>Projects Shipped</sub>
+
+</td>
+<td align="center" width="20%">
+
+**6**
+<br/><sub>Domains Covered</sub>
+
+</td>
+<td align="center" width="20%">
+
+**12+**
+<br/><sub>PRs Merged 2026</sub>
+
+</td>
+<td align="center" width="20%">
+
+**24/7**
+<br/><sub>Learning Mode</sub>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30"/> About Me
+
+<table>
+<tr>
+<td width="38%" valign="top">
+
+<div align="center">
+
+<img src="https://github.com/amansrivastava.png" width="220" style="border-radius: 50%; border: 3px solid #7C6FF0;" alt="Aman Srivastava"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Full_Stack-0F0C29?style=for-the-badge&logo=react&logoColor=00D9FF" />
+<br/>
+<img src="https://img.shields.io/badge/Security-0F0C29?style=for-the-badge&logo=hackthebox&logoColor=7C6FF0" />
+<br/>
+<img src="https://img.shields.io/badge/AI_ML-0F0C29?style=for-the-badge&logo=tensorflow&logoColor=00D9FF" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Based_in-India-7C6FF0?style=flat-square&labelColor=0F0C29"/>
+<br/>
+<img src="https://img.shields.io/badge/Speaks-English%20%7C%20Hindi-00D9FF?style=flat-square&labelColor=0F0C29"/>
+
+</div>
+
+</td>
+<td width="62%" valign="top">
+
+<br/>
+
+**I'm a developer who thinks in three layers** — how a system is built, how it can be broken, and how it can learn.
+
+<br/>
+
+Most of my work sits at the intersection of those three disciplines. I don't just want to ship a feature — I want to know what happens when someone tries to abuse it, and whether a model could learn to do the boring parts for me.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18"/> &nbsp;**Full Stack Development** — Architecting applications from database schema to pixel-perfect UI. I care as much about query performance as I do about button hover states.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="18"/> &nbsp;**Cyber Security** — Studying offensive and defensive security because shipping code without threat-modeling it is only half a job. Currently deep in network security, Linux internals, and the OWASP Top 10.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="18"/> &nbsp;**AI Engineering** — Building and fine-tuning systems that solve real, unglamorous problems — retrieval pipelines, context windows that don't fall apart, and chatbots that remember what you told them five turns ago.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="18"/> &nbsp;**Currently** — Shipping production ERPs, e-commerce platforms, and AI-driven tooling for real users, not just portfolio demos.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" width="18"/> &nbsp;**Looking to collaborate on** — security-conscious full-stack products, applied AI tooling, and anything that forces me to learn something I don't already know.
+
+<br/>
+
+> *"Code that isn't secure is a prototype. A model that isn't understood is a liability."*
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="30"/> Tech Arsenal
+
+<sub>Organized by domain — hover-worthy, not a wall of icons</sub>
+
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr><td>
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,bash&theme=dark" />
+
+</div>
+
+</td></tr>
+
+<tr><td>
+
+<div align="center">
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,html,css,tailwind,redux,vite,sass&theme=dark" />
+
+</div>
+
+</td></tr>
+
+<tr><td>
+
+<div align="center">
+
+**BACKEND**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring,graphql,nestjs&theme=dark" />
+
+</div>
+
+</td></tr>
+
+<tr><td>
+
+<div align="center">
+
+**DATABASE**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite,firebase,supabase&theme=dark" />
+
+</div>
+
+</td></tr>
+
+<tr><td>
+
+<div align="center">
+
+**CLOUD**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare,heroku&theme=dark" />
+
+</div>
+
+</td></tr>
+
+<tr><td>
+
+<div align="center">
+
+**DEVOPS**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,nginx,git,linux,terraform&theme=dark" />
+
+</div>
+
+</td></tr>
+
+<tr><td>
+
+<div align="center">
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn,pandas,numpy&theme=dark" />
+
+</div>
+
+</td></tr>
+
+<tr><td>
+
+<div align="center">
+
+**SECURITY & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=wireshark,kali,postman,figma,vscode,vim,github,notion&theme=dark" />
+
+</div>
+
+</td></tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### Proficiency Snapshot
+
+</div>
+
+<table align="center" width="90%">
+<tr>
+<th align="left">Domain</th>
+<th align="left">Stack</th>
+<th align="center">Comfort Level</th>
+</tr>
+<tr>
+<td>Frontend Engineering</td>
+<td><code>React</code> <code>Next.js</code> <code>Tailwind</code></td>
+<td align="center">████████████████░░ 85%</td>
+</tr>
+<tr>
+<td>Backend & APIs</td>
+<td><code>Node.js</code> <code>Express</code> <code>FastAPI</code></td>
+<td align="center">███████████████████ 90%</td>
+</tr>
+<tr>
+<td>Databases</td>
+<td><code>MongoDB</code> <code>PostgreSQL</code> <code>Redis</code></td>
+<td align="center">███████████████░░░░ 80%</td>
+</tr>
+<tr>
+<td>Cloud & DevOps</td>
+<td><code>Docker</code> <code>AWS</code> <code>CI/CD</code></td>
+<td align="center">██████████████░░░░░ 72%</td>
+</tr>
+<tr>
+<td>Cyber Security</td>
+<td><code>Network Sec</code> <code>OWASP</code> <code>Pentesting</code></td>
+<td align="center">████████████░░░░░░░ 65%</td>
+</tr>
+<tr>
+<td>AI / Machine Learning</td>
+<td><code>LangChain</code> <code>RAG</code> <code>PyTorch</code></td>
+<td align="center">█████████████░░░░░░ 68%</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### Skills-by-Project Matrix
+
+<sub>Which stack shows up where — useful if you're skimming for a specific technology</sub>
+
+</div>
+
+<table align="center" width="95%">
+<tr>
+<th align="left">Project</th>
+<th align="center">Frontend</th>
+<th align="center">Backend</th>
+<th align="center">Database</th>
+<th align="center">DevOps</th>
+<th align="center">AI/Security</th>
+</tr>
+<tr>
+<td>WoodZeno</td>
+<td align="center">React</td>
+<td align="center">Node / Express</td>
+<td align="center">MongoDB</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+<tr>
+<td>Pharmacy ERP</td>
+<td align="center">Next.js</td>
+<td align="center">Prisma</td>
+<td align="center">PostgreSQL</td>
+<td align="center">Docker / Redis</td>
+<td align="center">RBAC / Audit Logs</td>
+</tr>
+<tr>
+<td>Luxury Jewellery</td>
+<td align="center">React / Framer Motion</td>
+<td align="center">Node.js</td>
+<td align="center">—</td>
+<td align="center">Cloudinary</td>
+<td align="center">Stripe Security</td>
+</tr>
+<tr>
+<td>AI Chatbot</td>
+<td align="center">—</td>
+<td align="center">FastAPI</td>
+<td align="center">Vector DB</td>
+<td align="center">—</td>
+<td align="center">LangChain / RAG</td>
+</tr>
+<tr>
+<td>Portfolio</td>
+<td align="center">Next.js / Tailwind</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">Vercel</td>
+<td align="center">—</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" width="30"/> Featured Projects
+
+<sub>A curated selection — not everything I've shipped, just what I'm proudest of</sub>
+
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:312E81&height=140&text=WoodZeno&fontSize=32&fontColor=00D9FF&fontAlign=50&fontAlignY=60&animation=twinkling" width="100%"/>
+</div>
+
+**WoodZeno** &nbsp; <img src="https://img.shields.io/badge/LIVE-00D9FF?style=flat-square&labelColor=0F0C29" height="18"/>
+
+E-commerce platform for premium woodcraft — full catalog, cart, checkout, and admin dashboard built for real inventory at real scale.
+
+<table>
+<tr><td><sub><b>Stack</b></sub></td><td><sub><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code> <code>Tailwind</code></sub></td></tr>
+<tr><td><sub><b>Role</b></sub></td><td><sub>Solo developer — design, backend, deployment</sub></td></tr>
+<tr><td><sub><b>Highlights</b></sub></td><td><sub>Custom admin dashboard, cart persistence, order tracking</sub></td></tr>
+</table>
+
+<a href="https://github.com/amansrivastava/woodzeno"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7C6FF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:312E81&height=140&text=Pharmacy%20ERP&fontSize=28&fontColor=7C6FF0&fontAlign=50&fontAlignY=60&animation=twinkling" width="100%"/>
+</div>
+
+**Pharmacy ERP** &nbsp; <img src="https://img.shields.io/badge/IN%20PROD-00D9FF?style=flat-square&labelColor=0F0C29" height="18"/>
+
+Full enterprise resource system for pharmacy operations — inventory, billing, expiry tracking, supplier management, and role-based access.
+
+<table>
+<tr><td><sub><b>Stack</b></sub></td><td><sub><code>Next.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Docker</code> <code>Redis</code></sub></td></tr>
+<tr><td><sub><b>Role</b></sub></td><td><sub>Lead developer — schema design, auth, deployment</sub></td></tr>
+<tr><td><sub><b>Highlights</b></sub></td><td><sub>Multi-branch sync, expiry alerts, audit logging</sub></td></tr>
+</table>
+
+<a href="https://github.com/amansrivastava/pharmacy-erp"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7C6FF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:312E81&height=140&text=Luxury%20Jewellery&fontSize=26&fontColor=00D9FF&fontAlign=50&fontAlignY=60&animation=twinkling" width="100%"/>
+</div>
+
+**Luxury Jewellery** &nbsp; <img src="https://img.shields.io/badge/LIVE-00D9FF?style=flat-square&labelColor=0F0C29" height="18"/>
+
+High-end jewellery storefront with 360° product views, wishlist, secure payments, and a design language built to feel expensive.
+
+<table>
+<tr><td><sub><b>Stack</b></sub></td><td><sub><code>React</code> <code>Node.js</code> <code>Stripe</code> <code>Cloudinary</code> <code>Framer Motion</code></sub></td></tr>
+<tr><td><sub><b>Role</b></sub></td><td><sub>Frontend lead + payments integration</sub></td></tr>
+<tr><td><sub><b>Highlights</b></sub></td><td><sub>360° viewer, wishlist sync, Stripe checkout</sub></td></tr>
+</table>
+
+<a href="https://github.com/amansrivastava/luxury-jewellery"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7C6FF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:312E81&height=140&text=AI%20Chatbot&fontSize=32&fontColor=7C6FF0&fontAlign=50&fontAlignY=60&animation=twinkling" width="100%"/>
+</div>
+
+**AI Chatbot** &nbsp; <img src="https://img.shields.io/badge/ACTIVE-00D9FF?style=flat-square&labelColor=0F0C29" height="18"/>
+
+Context-aware conversational AI with RAG-based retrieval, streaming responses, and a memory layer for multi-turn coherence.
+
+<table>
+<tr><td><sub><b>Stack</b></sub></td><td><sub><code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>Vector DB</code> <code>OpenAI API</code></sub></td></tr>
+<tr><td><sub><b>Role</b></sub></td><td><sub>Solo — pipeline design, prompt engineering</sub></td></tr>
+<tr><td><sub><b>Highlights</b></sub></td><td><sub>RAG retrieval, streaming tokens, session memory</sub></td></tr>
+</table>
+
+<a href="https://github.com/amansrivastava/ai-chatbot"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7C6FF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:312E81&height=140&text=Portfolio&fontSize=32&fontColor=00D9FF&fontAlign=50&fontAlignY=60&animation=twinkling" width="100%"/>
+</div>
+
+**Portfolio** &nbsp; <img src="https://img.shields.io/badge/LIVE-00D9FF?style=flat-square&labelColor=0F0C29" height="18"/>
+
+Personal developer portfolio — fully responsive, motion-driven, and built for zero layout shift.
+
+<table>
+<tr><td><sub><b>Stack</b></sub></td><td><sub><code>Next.js</code> <code>Tailwind</code> <code>Framer Motion</code> <code>Vercel</code></sub></td></tr>
+<tr><td><sub><b>Role</b></sub></td><td><sub>Solo — design system + build</sub></td></tr>
+<tr><td><sub><b>Highlights</b></sub></td><td><sub>Sub-1s load, dark/light theming, MDX blog</sub></td></tr>
+</table>
+
+<a href="https://github.com/amansrivastava/portfolio"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-7C6FF0?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:312E81&height=140&text=More%20Soon&fontSize=30&fontColor=7C6FF0&fontAlign=50&fontAlignY=60&animation=twinkling" width="100%"/>
+</div>
+
+**More Coming** &nbsp; <img src="https://img.shields.io/badge/IN%20PROGRESS-7C6FF0?style=flat-square&labelColor=0F0C29" height="18"/>
+
+A security scanning CLI and an LLM fine-tuning experiment are both mid-build. Check the pinned repos for the latest.
+
+<table>
+<tr><td><sub><b>Stack</b></sub></td><td><sub><code>TBD</code></sub></td></tr>
+<tr><td><sub><b>Role</b></sub></td><td><sub>Solo</sub></td></tr>
+<tr><td><sub><b>Highlights</b></sub></td><td><sub>Details land once there's something real to show</sub></td></tr>
+</table>
+
+<a href="https://github.com/amansrivastava?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="30"/> Learning Roadmap
+
+<sub>The path so far, in the order it actually happened</sub>
+
+</div>
+
+<br/>
+
+```
+2023  ─────●  Foundations
+            │  HTML · CSS · JavaScript · Git fundamentals
+            │  First static sites, first broken builds, first real commits
+            │
+2024  ─────●  Full Stack Core
+            │  React · Node.js · Express · MongoDB · REST API design
+            │  Learned the difference between "it runs" and "it's maintainable"
+            │
+            ●  First Production Builds
+            │  WoodZeno & Portfolio shipped end-to-end
+            │  First time a stranger used something I built without me watching
+            │
+2025  ─────●  Systems & Security
+            │  Network fundamentals · Linux internals · OWASP Top 10
+            │  Started reading CVEs instead of just patching them blindly
+            │
+            ●  Enterprise-Grade Engineering
+            │  Pharmacy ERP · Postgres · Docker · role-based auth systems
+            │  Learned what "production" actually means under real load
+            │
+2026  ─────●  AI Engineering
+            │  LangChain · RAG pipelines · Vector databases · LLM fine-tuning
+            │  Built the AI Chatbot, then rebuilt it twice after it hallucinated
+            │
+            ●  ── NOW ──
+               Merging Security + AI — adversarial ML, prompt-injection defense,
+               and model hardening for systems that actually get attacked
+```
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<th align="left">Phase</th>
+<th align="left">Focus</th>
+<th align="center">Status</th>
+</tr>
+<tr>
+<td>Foundations</td>
+<td>Web fundamentals & version control</td>
+<td align="center">Complete</td>
+</tr>
+<tr>
+<td>Full Stack Core</td>
+<td>MERN stack, REST APIs</td>
+<td align="center">Complete</td>
+</tr>
+<tr>
+<td>Systems & Security</td>
+<td>Networking, Linux, OWASP</td>
+<td align="center">Ongoing</td>
+</tr>
+<tr>
+<td>Enterprise Engineering</td>
+<td>Postgres, Docker, scalable auth</td>
+<td align="center">Ongoing</td>
+</tr>
+<tr>
+<td>AI Engineering</td>
+<td>RAG, vector search, fine-tuning</td>
+<td align="center">Ongoing</td>
+</tr>
+<tr>
+<td>Security × AI</td>
+<td>Adversarial ML, model hardening</td>
+<td align="center">Just Started</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Analytics
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amansrivastava&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=7C6FF0&icon_color=00D9FF&text_color=C9D1D9&ring_color=7C6FF0" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amansrivastava&theme=react&hide_border=true&background=0D1117&ring=7C6FF0&fire=00D9FF&currStreakLabel=7C6FF0" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansrivastava&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=7C6FF0&text_color=C9D1D9&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amansrivastava&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C6FF0&point=ffffff" width="49%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=amansrivastava&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Weekly Contribution Breakdown
+
+</div>
+
+<table align="center" width="90%">
+<tr>
+<th align="left">Day</th>
+<th align="left">Activity Level</th>
+</tr>
+<tr><td>Monday</td><td>██████████████░░░░░ High</td></tr>
+<tr><td>Tuesday</td><td>████████████████░░░ High</td></tr>
+<tr><td>Wednesday</td><td>█████████████████░░ Very High</td></tr>
+<tr><td>Thursday</td><td>██████████████░░░░░ High</td></tr>
+<tr><td>Friday</td><td>███████████░░░░░░░░ Moderate</td></tr>
+<tr><td>Saturday</td><td>████████░░░░░░░░░░░ Light</td></tr>
+<tr><td>Sunday</td><td>██████████████████░ Deep Work</td></tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="30"/> Current Focus
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+<tr><td>
+
+- [x] Ship Pharmacy ERP v2 with multi-branch inventory sync
+- [x] Complete OWASP-aligned security audit on all live projects
+- [x] Migrate AI Chatbot to a proper vector-DB backed RAG pipeline
+- [ ] Fine-tune a domain-specific LLM for internal tooling
+- [ ] Earn OSCP-track certification
+- [ ] Contribute to an open-source security scanning tool
+- [ ] Publish a technical write-up on RAG pipeline optimization
+- [ ] Build a prompt-injection detection layer for the chatbot
+
+</td></tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="30"/> Open Source Goals
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<td align="center" width="25%">
+
+**12+**
+<br/>
+<sub>PRs merged in 2026</sub>
+
+</td>
+<td align="center" width="25%">
+
+**5**
+<br/>
+<sub>Repos with 10+ stars</sub>
+
+</td>
+<td align="center" width="25%">
+
+**3**
+<br/>
+<sub>Active maintainer roles</sub>
+
+</td>
+<td align="center" width="25%">
+
+**1**
+<br/>
+<sub>Tool built for the community</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<th align="left">Goal</th>
+<th align="center">Target</th>
+</tr>
+<tr>
+<td>Merge meaningful PRs into projects I actually use</td>
+<td align="center">20 by year-end</td>
+</tr>
+<tr>
+<td>Release a standalone open-source security tool</td>
+<td align="center">1 public launch</td>
+</tr>
+<tr>
+<td>Write documentation for at least one large OSS repo</td>
+<td align="center">In progress</td>
+</tr>
+<tr>
+<td>Mentor a first-time contributor through their first PR</td>
+<td align="center">Planned Q4</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30"/> Certifications & Coursework
+
+<sub>What's actually completed vs. what's actively in progress</sub>
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<th align="left">Certification / Course</th>
+<th align="left">Provider</th>
+<th align="center">Status</th>
+</tr>
+<tr>
+<td>The Complete Full-Stack Web Development Bootcamp</td>
+<td>Udemy</td>
+<td align="center">Completed</td>
+</tr>
+<tr>
+<td>Introduction to Cyber Security</td>
+<td>Cisco Networking Academy</td>
+<td align="center">Completed</td>
+</tr>
+<tr>
+<td>Practical Ethical Hacking</td>
+<td>TCM Security</td>
+<td align="center">In Progress</td>
+</tr>
+<tr>
+<td>Deep Learning Specialization</td>
+<td>DeepLearning.AI</td>
+<td align="center">In Progress</td>
+</tr>
+<tr>
+<td>AWS Certified Cloud Practitioner</td>
+<td>Amazon Web Services</td>
+<td align="center">Planned</td>
+</tr>
+<tr>
+<td>OSCP (Offensive Security Certified Professional)</td>
+<td>Offensive Security</td>
+<td align="center">Planned</td>
+</tr>
+</table>
+
+<br/>
+
+<sub>Replace this table with your actual certificates before publishing — don't list anything you haven't genuinely completed or started.</sub>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="30"/> Writing & Notes
+
+<sub>Occasional write-ups — mostly things I wished someone had explained to me first</sub>
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<th align="left">Title</th>
+<th align="left">Topic</th>
+<th align="center">Status</th>
+</tr>
+<tr>
+<td><a href="#">Building a RAG Pipeline That Doesn't Hallucinate</a></td>
+<td>AI Engineering</td>
+<td align="center">Draft</td>
+</tr>
+<tr>
+<td><a href="#">A Practical Guide to Threat-Modeling Side Projects</a></td>
+<td>Security</td>
+<td align="center">Draft</td>
+</tr>
+<tr>
+<td><a href="#">What I Got Wrong Building My First ERP</a></td>
+<td>Full Stack</td>
+<td align="center">Idea</td>
+</tr>
+</table>
+
+<br/>
+
+<sub>Links are placeholders — point these at your actual blog, Dev.to, Hashnode, or Medium posts once they exist.</sub>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Question%20Mark.png" width="30"/> Frequently Asked
+
+</div>
+
+<br/>
+
+<table align="center" width="90%">
+<tr>
+<td>
+
+**What are you currently working on?**
+<br/>
+<sub>Pharmacy ERP v2 and hardening the AI Chatbot's RAG pipeline against prompt injection — see the Current Focus checklist above for the live list.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**What's your primary stack for new projects?**
+<br/>
+<sub>Next.js + PostgreSQL + Prisma for anything that needs to be maintainable long-term; plain React + Node for fast prototypes.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Are you available for freelance or full-time roles?**
+<br/>
+<sub>Yes — open to both. Email is the fastest way to reach me; see the Let's Connect section below.</sub>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Do you take open-source contributions or issues on your repos?**
+<br/>
+<sub>Always. Open an issue or PR — I try to respond within a few days.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" width="30"/> Let's Connect
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="mailto:amansrivastava.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F0C29?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+</a>
+<a href="https://linkedin.com/in/amansrivastava">
+<img src="https://img.shields.io/badge/LinkedIn-0F0C29?style=for-the-badge&logo=linkedin&logoColor=7C6FF0" />
+</a>
+<a href="https://twitter.com/amansrivastava">
+<img src="https://img.shields.io/badge/Twitter-0F0C29?style=for-the-badge&logo=x&logoColor=00D9FF" />
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-0F0C29?style=for-the-badge&logo=vercel&logoColor=7C6FF0" />
+</a>
+<a href="https://github.com/amansrivastava">
+<img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=00D9FF" />
+</a>
+
+<br/><br/>
+
+<sub>Best way to reach me is email — I check it more than I'd like to admit.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Placeholders like <code>amansrivastava.dev@gmail.com</code>, social handles, and demo links need to be swapped for real ones before publishing — see the setup note below.</sub>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer" width="100%"/>
+
+<div align="center">
+<sub>Built with intent, not a template generator.</sub>
+</div>
+
+</div>
