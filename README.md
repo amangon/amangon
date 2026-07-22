@@ -89,7 +89,7 @@ whoami:
 
 <br/><br/>
 
-## <img src=/> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30"/> About Me
 
 <table>
 <tr>
@@ -97,7 +97,6 @@ whoami:
 
 <div align="center">
 
-<img src="https://github.com/amansrivastava.png" width="220" style="border-radius: 50%; border: 3px solid #7C6FF0;" alt="Aman Srivastava"/>
 
 <br/><br/>
 
