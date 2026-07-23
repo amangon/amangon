@@ -89,7 +89,7 @@ whoami:
 
 <br/><br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30"/> About Me
+##  About Me
 
 <table>
 <tr>
