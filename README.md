@@ -97,7 +97,7 @@ whoami:
 
 <div align="center">
 
-<img src="https://github.com/amansrivastava.png" width="220" style="border-radius: 50%; border: 3px solid #7C6FF0;" alt="Aman Srivastava"/>
+
 
 <br/><br/>
 
