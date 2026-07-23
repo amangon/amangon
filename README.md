@@ -97,6 +97,7 @@ whoami:
 
 <div align="center">
 
+<img src="https://github.com/amansrivastava.png" width="220" style="border-radius: 50%; border: 3px solid #7C6FF0;" alt="Aman Srivastava"/>
 
 <br/><br/>
 
@@ -919,6 +920,92 @@ A security scanning CLI and an LLM fine-tuning experiment are both mid-build. Ch
 
 <div align="center">
 <sub>Placeholders like <code>amansrivastava.dev@gmail.com</code>, social handles, and demo links need to be swapped for real ones before publishing — see the setup note below.</sub>
+</div>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30"/> Setup Notes
+
+<sub>This file uses live, username-driven services — a few things need to be configured before it works correctly</sub>
+
+</div>
+
+<br/>
+
+<table align="center" width="92%">
+<tr>
+<th align="left">Service</th>
+<th align="left">What to do</th>
+</tr>
+<tr>
+<td><b>Repo name</b></td>
+<td>This README only renders on your profile if it lives in a repo named exactly <code>amansrivastava/amansrivastava</code> (your GitHub username, twice) and is public.</td>
+</tr>
+<tr>
+<td><b>Snake animation</b></td>
+<td>Fork <a href="https://github.com/Platane/snk">Platane/snk</a> and set up the included GitHub Action on your own repo — it generates the contribution snake SVG from your real graph and needs to run on a schedule.</td>
+</tr>
+<tr>
+<td><b>Stats / streak / trophy cards</b></td>
+<td>github-readme-stats, github-readme-streak-stats, and github-profile-trophy all key off the <code>username=</code> query parameter — swap every instance of <code>amansrivastava</code> for your actual handle.</td>
+</tr>
+<tr>
+<td><b>Profile view counter</b></td>
+<td>Komarev's badge auto-registers on first render — no setup needed beyond the username swap.</td>
+</tr>
+<tr>
+<td><b>Typing animation</b></td>
+<td>readme-typing-svg text is URL-encoded in the <code>lines=</code> parameter — edit the text there directly if you want to change what it types.</td>
+</tr>
+<tr>
+<td><b>Social & project links</b></td>
+<td>Every <code>href="#"</code> placeholder — live demo buttons, blog post links, portfolio URL — needs a real destination before publishing.</td>
+</tr>
+<tr>
+<td><b>Profile photo</b></td>
+<td>Pulled automatically from <code>github.com/&lt;username&gt;.png</code>, so it updates whenever you change your GitHub avatar — no separate hosting needed.</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### A Few Extra Data Points
+
+</div>
+
+<table align="center" width="90%">
+<tr>
+<th align="left">Question</th>
+<th align="left">Answer</th>
+</tr>
+<tr>
+<td>Editor of choice</td>
+<td>VS Code, with Vim keybindings for anything longer than a quick edit</td>
+</tr>
+<tr>
+<td>OS daily driver</td>
+<td>Linux for development, with a Kali VM for security work</td>
+</tr>
+<tr>
+<td>Preferred package manager</td>
+<td>pnpm for JS/TS, uv for Python</td>
+</tr>
+<tr>
+<td>Terminal setup</td>
+<td>Zsh + tmux, because context-switching between panes beats switching windows</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<sub>Everything above renders from public, unauthenticated endpoints — no API keys or secrets required.</sub>
 </div>
 
 <br/>
